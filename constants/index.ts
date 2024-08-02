@@ -96,7 +96,7 @@ export const Socials = [
   {
     name: "Instagram",
     src: "/instagram.svg",
-    url: "https://instagram.com"
+    url: "https://www.instagram.com/himanshu09679/?hl=en"
   },
 ];
 
